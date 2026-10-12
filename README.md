@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Arjun
 
-<!--
-**Arjun7497/Arjun7497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Backend Engineer and Tech Lead with 10 years of experience building scalable, resilient distributed systems.
 
-Here are some ideas to get you started:
+## What I work on
+- Java 21 and Spring Boot 3
+- Microservices and event-driven architecture
+- Kafka, PostgreSQL, and Redis
+- AWS and GCP
+- API design, performance tuning, and production reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I care about
+- Clean backend architecture
+- Reliable production systems
+- Practical system design
+- Mentoring engineers
+- Turning business needs into simple, scalable solutions
+
+## Currently exploring
+- Advanced system design
+- Cloud-native backend engineering
+- Distributed systems patterns
+- AI-assisted development workflows
+
+## Contact
+- LinkedIn: [linkedin.com/in/arjunm7](https://linkedin.com/in/arjunm7)
+- Email: m.arjunsvp@gmail.com
