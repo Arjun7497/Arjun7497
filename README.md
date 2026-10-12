@@ -1,6 +1,7 @@
-# Hi, I'm Arjun
-
-Senior Java Backend Engineer and Tech Lead with 10 years of experience building scalable, resilient distributed systems.
+## 👋 Arjun M — Senior Java Backend Engineer  
+📍 Netherlands   | 10 years of experience in Java, Spring Boot, Microservices  
+☁️ AWS SAA-C03 | AWS DVA-C02 | GitHub Actions certified  
+🎯 Open to Senior Java / Backend Engineer roles in Netherlands
 
 ## What I work on
 - Java 21 and Spring Boot 3
