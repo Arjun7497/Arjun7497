@@ -1,6 +1,6 @@
 ## 👋 Arjun M — Senior Java Backend Engineer  
-📍 Netherlands   | 10 years of experience in Java, Spring Boot, Microservices  
-☁️ AWS SAA-C03 | AWS DVA-C02 | GitHub Actions certified  
+📍 Netherlands   | 10 years of experience in Java, Spring Boot & Microservices  
+☁️ AWS Solution Architect Associate (SAA-C03) | AWS Developer Associate (DVA-C02) | GitHub Actions certified  
 🎯 Open to Senior Java / Backend Engineer roles in Netherlands
 
 ## What I work on
